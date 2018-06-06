@@ -1,4 +1,4 @@
 # hello-world
-Learning Github
-Hello Humans!
+Learning Github<br/>
+Hello Humans!<br/><hr/>
 New Mexican Chile is the only kind that matters.
